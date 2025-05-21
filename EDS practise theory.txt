@@ -1,0 +1,28 @@
+Write significance of all basic graphs required for Data Visualization.
+1)Bar Graph
+A bar graph is used to compare data across different categories. Each category is represented by a bar, and the length or height of the bar corresponds to the value. Bar graphs are especially useful for visualizing categorical data and identifying trends or differences between groups.
+Example: Comparing sales revenue across different products.
+
+2)Histogram
+A histogram is used to represent the distribution of a continuous variable. It divides the data into intervals (called bins) and shows how many data points fall into each interval. Histograms help in understanding the shape, spread, central tendency, and skewness of the data.
+Example: Distribution of students’ marks in an exam.
+
+3)Line Graph
+A line graph is commonly used to display data points over time. It is ideal for showing trends, patterns, and changes in data across time intervals. Line graphs help to understand how a particular variable behaves or evolves.
+Example: Tracking monthly expenses over a year.
+
+4)Pie Chart
+A pie chart shows proportions of a whole. Each slice of the pie represents a category’s contribution to the total. It is useful for understanding the relative percentage or share of categories in a dataset.
+Example: Market share of different brands in a product category.
+
+5)Scatter Plot
+A scatter plot is used to show the relationship between two continuous variables. Each point represents a pair of values. Scatter plots are useful for detecting patterns, correlations, and clusters in data.
+Example: Relationship between temperature and electricity usage.
+
+Other Important Graphs and Their Significance:
+Box Plot: Displays the median, quartiles, and outliers. Useful for comparing distributions and spotting anomalies.
+
+Area Chart: Similar to a line graph but filled with color to emphasize the total value over time.
+
+
+
